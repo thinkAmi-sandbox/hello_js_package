@@ -1,0 +1,10 @@
+{
+  "name": "hello-package",
+  "version": "1.0.0",
+  "bin" :{
+    "hello-package": "./index.js"
+  },
+  "scripts": {
+    "preinstall": "echo PREINSTALL_HELLO"
+  }
+}
