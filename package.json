@@ -5,6 +5,6 @@
     "hello_js_package": "./index.js"
   },
   "scripts": {
-    "prepare": "echo PREPARE_HELLO"
+    "preinstall": "echo LIFECYCLE_HELLO"
   }
 }
